@@ -467,9 +467,21 @@ right: 350px;
     top: 1250px;
     left: 320px;
 }
+.e6 {
+    width: 800px;
+    position: absolute;
+    top: 1680px;
+    left: 340px;
+}
+.e7 {
+    width: 800px;
+    position: absolute;
+    top: 2320px;
+    left: 320px;
+}
 .ee {
     position: absolute;
-    top: 1700px;
+    top: 2850px;
     left: 700px;
 }
 
@@ -1264,9 +1276,21 @@ right: 430px;
             top: 550px;
             left: 110px;
         }
+        .e6 {
+            width: 200px;
+            position: absolute;
+            top: 660px;
+            left: 110px;
+        }
+        .e7 {
+            width: 200px;
+            position: absolute;
+            top: 830px;
+            left: 110px;
+        }
         .ee {
             position: absolute;
-            top: 700px;
+            top: 990px;
             left: 190px;
         }
 
