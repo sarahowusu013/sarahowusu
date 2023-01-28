@@ -28,6 +28,14 @@ main {
     margin-top: 20px;
 }
 
+.mypage {
+    width: 900px;
+    position: absolute;
+    top: 100px;
+    left: 550px;
+
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -310,4 +318,12 @@ a:hover {
         top: 120px;
         left: 80px;
     }
+     .mypage {
+        width: 350px;
+        position: absolute;
+        top: 400px;
+        left: 15px;
+    
+    }
+    
 }
