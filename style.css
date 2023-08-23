@@ -17,10 +17,17 @@ h1 {
     font-family: 'major mono display';
     
 }
-
+h2 {
+    position: absolute;
+    font-size: 30px;
+    left: 360px;
+}
 main {
     width: 500px;
-}
+    font-size: 20px;
+    position: absolute;
+    top: 150px;
+    left: 360px;}
 
 .create {
     font-size: 16px;
@@ -35,6 +42,14 @@ main {
     left: 550px;
 
 }
+
+.mee {
+    position: absolute;
+    width: 300px;
+    top: 100px;
+    left: 40px
+}
+
 
 a {
     color: white;
@@ -169,7 +184,7 @@ a:hover {
 .contact {
     font-size: 20px;
     position: absolute;
-    top: 400px;
+    top: 480px;
 }
 
 .planet {
