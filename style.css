@@ -218,6 +218,27 @@ a:hover {
     h1 {
         font-size: 25px;
     }
+
+h2 {
+        position: absolute;
+        font-size: 20px;
+        top: 100px;
+        left: 140px;
+    }
+
+    main {
+        width: 360px;
+        font-size: 20px;
+        position: absolute;
+        top: 130px;
+        left: 140px;
+    }
+    .mee {
+        position: absolute;
+        width: 100px;
+        top: 100px;
+        left: 20px
+    }    
     a{
         font-size: 15px;
         margin-right: 20px;
@@ -303,7 +324,7 @@ a:hover {
     .contact {
         font-size: 15px;
         position: absolute;
-        top: 310px;
+        top: 410px;
     }
     
     .planet {
