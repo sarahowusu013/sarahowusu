@@ -209,6 +209,18 @@ a:hover {
     cursor: help;
 }
 
+.remix {
+    position: absolute;
+    width: 450px;
+    top:100px;
+    left:170px
+}
+.remix:hover {
+transition: .5s ease;
+opacity: 0.3;
+cursor: help;
+}
+
 @media (max-width: 480px) {
     .toppage{
         margin-left: -870px;
@@ -353,5 +365,10 @@ h2 {
         left: 25px;
     
     }
-    
+.remix {
+        position: absolute;
+        width: 200px;
+        top:60px;
+        left:30px
+    }    
 }
