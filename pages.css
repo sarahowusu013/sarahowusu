@@ -817,6 +817,91 @@ right: 430px;
     left: 680px
 }
 
+.re {
+    width: 700px;
+    position: absolute;
+    left: 340px;
+}
+.mix {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 350px;
+    margin-right: 390px;
+}
+.re1 {
+    width: 500px;
+}
+.re2 {
+    width: 300px;
+    position: absolute;
+    top: 400px;
+    left: 550px;
+}
+.re3 {
+    width: 300px;
+    position: absolute;
+    top: 400px;
+    left: 880px;
+}
+.re4 {
+    width: 300px;
+    position: absolute;
+    top: 970px;
+    left:220px;
+}
+.re5 {
+    width: 300px;
+    position: absolute;
+    top: 970px;
+    left:550px;
+}
+.re6 {
+    width: 300px;
+    position: absolute;
+    top: 970px;
+    left:880px;
+}
+.re7 {
+    width: 430px;
+    position: absolute;
+    top: 1530px;
+    left:70px;
+}
+.re8 {
+    width: 430px;
+    position: absolute;
+    top: 1530px;
+    left:500px;
+}
+.re9 {
+    width: 430px;
+    position: absolute;
+    top: 1530px;
+    left:930px;
+}
+.re10 {
+    width: 430px;
+    position: absolute;
+    top: 2090px;
+    left:70px;
+}
+.re11 {
+    width: 430px;
+    position: absolute;
+    top: 2090px;
+    left:500px;
+}
+.re12 {
+    width: 430px;
+    position: absolute;
+    top: 2090px;
+    left:930px;
+}
+.rrr {
+    position: absolute;
+    top: 2650px;
+    left: 750px;
+}
 @media (max-width: 480px) {
     .mr {
     font-size: 10px;
@@ -1640,4 +1725,90 @@ right: 430px;
             top: 1100px;
             left: 190px
         }
+.re {
+            width: 300px;
+            position: absolute;
+            left: 40px;
+        }
+        .mix {
+            position: absolute;
+            margin-top: 80px;
+            margin-left: 160px;
+            margin-right: 60px;
+            font-size: 10px;
+        }
+        .re1 {
+            width: 150px;
+        }
+        .re2 {
+            width: 100px;
+            position: absolute;
+            top: 250px;
+            left: 90px;
+        }
+        .re3 {
+            width: 100px;
+            position: absolute;
+            top: 250px;
+            left: 200px;
+        }
+        .re4 {
+            width: 100px;
+            position: absolute;
+            top: 450px;
+            left:40px;
+        }
+        .re5 {
+            width: 100px;
+            position: absolute;
+            top: 450px;
+            left:150px;
+        }
+        .re6 {
+            width: 100px;
+            position: absolute;
+            top: 450px;
+            left:260px;
+        }
+        .re7 {
+            width: 120px;
+            position: absolute;
+            top: 650px;
+            left:15px;
+        }
+        .re8 {
+            width: 120px;
+            position: absolute;
+            top: 650px;
+            left:135px;
+        }
+        .re9 {
+            width: 120px;
+            position: absolute;
+            top: 650px;
+            left:255px;
+        }
+        .re10 {
+            width: 120px;
+            position: absolute;
+            top: 820px;
+            left:15px;
+        }
+        .re11 {
+            width: 120px;
+            position: absolute;
+            top: 820px;
+            left:135px;
+        }
+        .re12 {
+            width: 120px;
+            position: absolute;
+            top: 820px;
+            left:255px;
+        }
+        .rrr {
+            position: absolute;
+            top: 1000px;
+            left: 190px;
+        }    
 }
