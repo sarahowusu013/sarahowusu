@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 80px;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     margin: 10px 0px 10px 0px;
@@ -17,29 +17,33 @@ h1 {
     font-family: 'major mono display';
     
 }
+
 h2 {
     position: absolute;
     font-size: 30px;
-    left: 360px;
+    left: 40px;
 }
+
 main {
-    width: 500px;
+    width: 600px;
     font-size: 20px;
     position: absolute;
-    top: 150px;
-    left: 360px;}
-
-.create {
+    top: 190px;
+    left: 40px;
+}
+.create{
     font-size: 16px;
     color: rgb(255, 255, 255);
     margin-top: 20px;
+    
 }
+
 
 .mee {
     position: absolute;
-    width: 300px;
+    width: 500px;
     top: 100px;
-    left: 40px
+    left: 800px
 }
 
 
@@ -47,7 +51,29 @@ a {
     color: white;
     text-decoration: none;
     text-decoration: underline;
+    
     margin-right: 10px;
+}
+
+.email {
+    color: #d568e6;
+    font-size: 23px;
+    position: absolute;
+    top: 500px;
+    left: 40px;
+}
+
+.insta {
+    font-size: 30px;
+    position: absolute;
+    top: 630px;
+    left: 50px;
+}
+.linkedin {
+    font-size: 30px;
+    position: absolute;
+    top: 630px;
+    left: 300px;
 }
 
 a:hover {
@@ -65,14 +91,14 @@ a:hover {
 
 .img-CD1 {
     position: absolute;
-    width: 180px;
-    left: 400px;
+    width: 220px;
+    left: 360px;
     top: 500px;
 }
 
 .img-CD2 {
     position: absolute;
-    width: 180px;
+    width: 220px;
     left: 580px;
     top: 500px;
 }
@@ -84,9 +110,9 @@ a:hover {
 
 .img-website {
     position: absolute;
-    width: 350px;
-    left: 100px;
-    top: 440px;
+    width: 400px;
+    left: 40px;
+    top: 420px;
 }
 
 .img-website:hover{
@@ -97,9 +123,9 @@ a:hover {
 
 .img-animation {
     position: absolute;
-    width: 350px;
+    width: 380px;
     left: 1000px;
-    top: 460px
+    top: 410px
 }
 .img-animation:hover {
     transition: .5s ease;
@@ -109,8 +135,8 @@ a:hover {
 
 .img-book {
     position: absolute;
-    width: 200px;
-    left: 140px;
+    width: 230px;
+    left: 120px;
     top: 750px;
 }
 .img-book:hover {
@@ -121,7 +147,7 @@ a:hover {
 
 .img-y {
     position: absolute;
-    width: 190px;
+    width: 210px;
     left: 320px;
     top: 730px;
 }
@@ -133,14 +159,14 @@ a:hover {
 
 .img-poster2 {
     position: absolute;
-    width: 170px;
-    left: 790px;
+    width: 210px;
+    left: 840px;
     top: 700px;
 }
 .img-poster {
     position: absolute;
-    width: 170px;
-    left: 920px;
+    width: 210px;
+    left: 990px;
     top: 660px;
 }
 .poster:hover {
@@ -150,8 +176,8 @@ a:hover {
 }
 .img-t {
     position: absolute;
-    width: 180px;
-    left: 580px;
+    width: 230px;
+    left: 570px;
     top: 850px;
 }
 .img-t:hover {
@@ -162,9 +188,9 @@ a:hover {
 
 .img-zine {
     position: absolute;
-    width: 270px;
+    width: 360px;
     left: 970px;
-    top: 970px;
+    top: 990px;
     margin-bottom: 100px;
 }
 .img-zine:hover {
@@ -173,15 +199,9 @@ a:hover {
     cursor: help;
 }
 
-.contact {
-    font-size: 20px;
-    position: absolute;
-    top: 480px;
-}
-
 .planet {
     position: absolute;
-    width: 240px;
+    width: 280px;
     top: 100px;
     left: 970px;
 }
@@ -193,15 +213,15 @@ a:hover {
 
 .mejibook {
     position: absolute;
-    width: 190px;
+    width: 210px;
     top: 150px;
-    left: 700px;
+    left: 710px;
 }
 .mejicd {
     position: absolute;
-    width: 270px;
+    width: 290px;
     top: 220px;
-    left: 520px;
+    left: 530px;
 }
 .meji:hover {
     transition: .5s ease;
@@ -211,8 +231,8 @@ a:hover {
 
 .remix {
     position: absolute;
-    width: 450px;
-    top:100px;
+    width: 490px;
+    top:140px;
     left:170px
 }
 .remix:hover {
@@ -228,32 +248,51 @@ cursor: help;
     }
 
     h1 {
-        font-size: 25px;
+        font-size: 30px;
     }
-
-h2 {
+    h2 {
         position: absolute;
         font-size: 20px;
-        top: 100px;
-        left: 140px;
+        top: 480px;
+        left: 20px;
     }
 
     main {
-        width: 360px;
+        width: 450px;
         font-size: 20px;
         position: absolute;
-        top: 130px;
-        left: 140px;
+        top: 510px;
+        left: 20px;
     }
     .mee {
         position: absolute;
-        width: 100px;
+        width: 300px;
         top: 100px;
-        left: 20px
-    }    
+        left: 40px
+    }
     a{
         font-size: 15px;
         margin-right: 20px;
+    }
+
+    .email {
+        font-size: 23px;
+        position: absolute;
+        top: 730px;
+        left: 20px;
+    }
+    
+    .insta {
+        font-size: 40px;
+        position: absolute;
+        top: 750px;
+        left: 20px;
+    }
+    .linkedin {
+        font-size: 40px;
+        position: absolute;
+        top: 750px;
+        left: 130px;
     }
 
     p{
@@ -358,17 +397,12 @@ h2 {
         top: 120px;
         left: 80px;
     }
-     .mypage {
-        width: 350px;
-        position: absolute;
-        top: 400px;
-        left: 25px;
-    
-    }
-.remix {
+
+    .remix {
         position: absolute;
         width: 200px;
         top:60px;
         left:30px
-    }    
+    }
+
 }
