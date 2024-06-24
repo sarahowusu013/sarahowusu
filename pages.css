@@ -902,6 +902,12 @@ right: 430px;
     top: 2650px;
     left: 750px;
 }
+.tiktokvideo {
+    width: 230px;
+    position: absolute;
+    top:550px;
+    left:270px;
+}
 @media (max-width: 480px) {
     .mr {
     font-size: 10px;
@@ -1811,4 +1817,10 @@ right: 430px;
             top: 1000px;
             left: 190px;
         }    
+    .tiktokvideo {
+            width: 100px;
+            position: absolute;
+            top:250px;
+            left:40px;
+        }
 }
