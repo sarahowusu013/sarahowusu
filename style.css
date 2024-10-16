@@ -59,20 +59,20 @@ a {
     color: #e9a7f4;
     font-size: 23px;
     position: absolute;
-    top: 550px;
+    top: 580px;
     left: 40px;
 }
 
 .insta {
     font-size: 30px;
     position: absolute;
-    top: 630px;
+    top: 660px;
     left: 50px;
 }
 .linkedin {
     font-size: 30px;
     position: absolute;
-    top: 630px;
+    top: 660px;
     left: 300px;
 }
 
@@ -278,20 +278,20 @@ cursor: help;
     .email {
         font-size: 23px;
         position: absolute;
-        top: 810px;
+        top: 820px;
         left: 20px;
     }
     
     .insta {
         font-size: 40px;
         position: absolute;
-        top: 820px;
+        top: 840px;
         left: 20px;
     }
     .linkedin {
         font-size: 40px;
         position: absolute;
-        top: 820px;
+        top: 840px;
         left: 130px;
     }
 
@@ -317,15 +317,15 @@ cursor: help;
     
     .img-website {
         position: absolute;
-        width: 160px;
-        left: 5px;
+        width: 140px;
+        left: 17px;
         top: 240px;
     }
     
     
     .img-animation {
         position: absolute;
-        width: 150px;
+        width: 130px;
         left: 250px;
         top: 190px
     }
