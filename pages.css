@@ -1923,103 +1923,103 @@ right: 430px;
             left:40px;
         }
            .joe {
-            width: 230px;
+            width: 130px;
             position: absolute;
             top: 15px;
-            left: 450px;
+            left: 140px;
         } 
         .j {
             position: absolute;
-            margin-top: 300px;
-            margin-left: 50px;
-            margin-right: 20px;
-            font-size: 20px;
+            margin-top: 150px;
+            margin-left: 10px;
+            margin-right: 30px;
+            font-size: 10px;
         }
         
         .wimbledon {
-            width: 300px;
+            width: 180px;
             position: absolute;
-            top: 350px;
-            left: 400px;
+            top: 270px;
+            left: 5px;
         }
         .planet {
-            width: 300px;
+            width: 180px;
             position: absolute;
-            top: 300px;
-            left: 750px;
+            top: 270px;
+            left: 200px;
         }
         .planet22 {
-            width: 300px;
+            width: 170px;
             position: absolute;
-            top: 800px;
-            left: 100px;
+            top: 460px;
+            left: 5px;
         }
         .planet3 {
-            width: 500px;
+            width: 220px;
             position: absolute;
-            top:850px;
-            left: 450px;
+            top:520px;
+            left: 170px;
         }
         .wimbledon1 {
-            width: 300px;
+            width: 180px;
             position: absolute;
-            top: 1200px;
-            left: 200px;
+            top: 700px;
+            left: 5px;
         }
         .wimbledon2 {
-            width: 300px;
+            width: 180px;
             position: absolute;
-            top: 1200px;
-            left: 570px;
-        }
-        .joemoodboard {
-            width: 700px;
-            position: absolute;
-            top: 1650px;
+            top: 700px;
             left: 200px;
         }
-        .northcote1 {
-            width: 350px;
+        .joemoodboard {
+            width: 380px;
             position: absolute;
-            top: 2100px;
-            left: 150px;
+            top: 950px;
+            left: 5px;
+        }
+        .northcote1 {
+            width: 180px;
+            position: absolute;
+            top: 1170px;
+            left: 5px;
         }
         .northcote2 {
-            width: 350px;
+            width: 180px;
             position: absolute;
-            top:2100px;
-            left: 550px;
+            top:1165px;
+            left: 200px;
         }
         
         .pink1 {
-            width: 350px;
+            width: 180px;
             position: absolute;
-            top: 2550px;
-            left: 150px;
+            top: 1380px;
+            left: 5px;
         }
         .pink2 {
-            width: 350px;
+            width: 180px;
             position: absolute;
-            top: 2550px;
-            left: 550px;
+            top: 1380px;
+            left: 200px;
         }
         
         .joemas{
-            width: 600px;
+            width: 380px;
             position: absolute;
-            top:3000px;
-            left:260px;
+            top:1600px;
+            left:5px;
         }
         .joemas1 {
-            width: 350px;
+            width: 180px;
             position: absolute;
-            top: 3400px;
-            left: 150px;
+            top: 1820px;
+            left: 5px;
         }
         .joemas2 {
-            width: 350px;
+            width: 180px;
             position: absolute;
-            top: 3400px;
-            left: 550px;
+            top: 1815px;
+            left: 200px;
         }
 }
