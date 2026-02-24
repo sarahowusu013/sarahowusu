@@ -1054,6 +1054,11 @@ right: 430px;
     top: 600px;
     left: 400px;
 }
+.ph1 {
+     position: absolute;
+    top: 2410px;
+    left: 700px;
+}
 
 @media (max-width: 480px) {
     .mr {
@@ -2117,4 +2122,10 @@ right: 430px;
     top: 600px;
     left: 60px;
 }
+.ph1 {
+     position: absolute;
+    top: 1400px;
+    left: 200px;
+}
+    
 }
