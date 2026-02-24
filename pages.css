@@ -1007,6 +1007,54 @@ right: 430px;
     top: 3400px;
     left: 700px;
 }
+ .power {
+        position: absolute;
+        width: 430px;
+        left: 500px;
+    }
+.power1 {
+    position: absolute;
+    width: 400px;
+    top: 800px;
+    left: 50px;
+}
+.power2 {
+    position: absolute;
+    width: 400px;
+    top: 800px;
+    left: 500px;
+}
+.power3 {
+    position: absolute;
+    width: 400px;
+    top: 800px;
+    left: 950px;
+}
+.power4 {
+    position: absolute;
+    width: 1000px;
+    top: 1350px;
+    left: 10px;
+}
+.power5 {
+    position: absolute;
+    width: 350px;
+    top: 1375px;
+    left: 1000px;
+}
+.power6 {
+    position: absolute;
+    width: 950px;
+    top: 1910px;
+    left: 230px;
+}
+.ph {
+     position: absolute;
+    width: 650px;
+    top: 600px;
+    left: 400px;
+}
+
 @media (max-width: 480px) {
     .mr {
     font-size: 10px;
@@ -2022,4 +2070,51 @@ right: 430px;
             top: 1815px;
             left: 200px;
         }
+            .power {
+        position: absolute;
+        width: 430px;
+        left: 20px;
+    }
+.power1 {
+    position: absolute;
+    width: 130px;
+    top: 800px;
+    left: 20px;
+}
+.power2 {
+    position: absolute;
+    width: 130px;
+    top: 800px;
+    left: 160px;
+}
+.power3 {
+    position: absolute;
+    width: 130px;
+    top: 800px;
+    left: 300px;
+}
+.power4 {
+    position: absolute;
+    width: 300px;
+    top: 1000px;
+    left: 10px;
+}
+.power5 {
+    position: absolute;
+    width: 110px;
+    top: 1010px;
+    left: 320px;
+}
+.power6 {
+    position: absolute;
+    width: 400px;
+    top: 1180px;
+    left: 25px;
+}
+.ph {
+     position: absolute;
+    width: 350px;
+    top: 600px;
+    left: 60px;
+}
 }
