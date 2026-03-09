@@ -80,7 +80,24 @@ a:hover {
     text-decoration: none;
 }
 
-.toppage {
+.about {
+    font-family: 'major mono display';
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    top: 20px;
+    left: 850px;
+}
+.work {
+    font-family: 'major mono display';
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    top: 20px;
+    left: 1035px;
+}
+
+.photography {
     font-family: 'major mono display';
     font-size: 30px;
     text-decoration: none;
