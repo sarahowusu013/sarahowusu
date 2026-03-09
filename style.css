@@ -302,6 +302,8 @@ cursor: help;
 
     h1 {
         font-size: 30px;
+         position: absolute;
+        top:40px
     }
     h2 {
         position: absolute;
@@ -347,6 +349,32 @@ cursor: help;
         top: 840px;
         left: 130px;
     }
+
+.about {
+    font-family: 'major mono display';
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    top: 0px;
+    left: 130px;
+}
+.work {
+    font-family: 'major mono display';
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    top: 0px;
+    left: 210px;
+}
+
+.photography {
+    font-family: 'major mono display';
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    top: 0px;
+    left: 280px;
+}    
 
     p{
       font-size: 12px;
