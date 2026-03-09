@@ -21,16 +21,17 @@ h1 {
 h2 {
     position: absolute;
     font-size: 30px;
+    top: 150px;
+    left: 50px;
+}
+
+main {
+    width: 700px;
+    font-size: 20px;
+    position: absolute;
+    top: 200px;
     left: 40px;
 }
-
-.mee {
-    position: absolute;
-    width: 320px;
-    top: 180px;
-    left: 890px
-}
-
 .create{
     font-size: 16px;
     color: rgb(255, 255, 255);
@@ -41,9 +42,9 @@ h2 {
 
 .mee {
     position: absolute;
-    width: 500px;
-    top: 100px;
-    left: 800px
+    width: 320px;
+    top: 180px;
+    left: 890px
 }
 
 
