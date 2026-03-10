@@ -66,8 +66,8 @@ a {
 .insta {
     font-size: 30px;
     position: absolute;
-    top: 660px;
-    left: 50px;
+    top: 480px;
+    left: 400px;
 }
 
     .face {
@@ -116,7 +116,7 @@ a {
     font-size: 30px;
     position: absolute;
     top: 660px;
-    left: 300px;
+    left: 680px;
 }
 
 a:hover {
@@ -379,16 +379,17 @@ cursor: help;
         left: 20px;
     }
     
+    
     .insta {
         font-size: 40px;
         position: absolute;
-        top: 840px;
+        top: 880px;
         left: 20px;
     }
     .linkedin {
         font-size: 40px;
         position: absolute;
-        top: 840px;
+        top: 880px;
         left: 130px;
     }
 
