@@ -1007,59 +1007,157 @@ right: 430px;
     top: 3400px;
     left: 700px;
 }
- .power {
+  .power {
         position: absolute;
-        width: 430px;
-        left: 500px;
+        width: 460px;
+        top: 1px;
+        left: 800px;
     }
 .power1 {
     position: absolute;
-    width: 400px;
-    top: 800px;
-    left: 50px;
+    width: 420px;
+    top: 500px;
+    left: 60px;
 }
 .power2 {
     position: absolute;
-    width: 400px;
-    top: 800px;
+    width: 420px;
+    top: 500px;
     left: 500px;
 }
 .power3 {
     position: absolute;
-    width: 400px;
-    top: 800px;
-    left: 950px;
+    width: 420px;
+    top: 500px;
+    left: 940px;
 }
 .power4 {
     position: absolute;
-    width: 1000px;
-    top: 1350px;
-    left: 10px;
+    width: 980px;
+    top: 1050px;
+    left: 25px;
 }
 .power5 {
     position: absolute;
-    width: 350px;
-    top: 1375px;
-    left: 1000px;
+    width: 360px;
+    top: 1075px;
+    left: 990px;
 }
 .power6 {
     position: absolute;
-    width: 950px;
-    top: 1910px;
-    left: 230px;
+    width: 1100px;
+    top: 1585px;
+    left: 150px;
 }
 .ph {
      position: absolute;
-    width: 650px;
-    top: 600px;
-    left: 400px;
-}
-.ph1 {
-     position: absolute;
-    top: 2410px;
-    left: 700px;
+    width: 600px;
+    top: 210px;
+    left: 40px;
 }
 
+.tops {
+     position: absolute;
+    width: 450px;
+    top: 1px;
+    left: 750px;
+    z-index: 10;
+}
+.phteamkit {
+    position: absolute;
+    width: 550px;
+    top: 210px;
+    left: 50px;
+}
+
+.oldgadtop {
+    position: absolute;
+    width: 400px;
+    top: 450px;
+    left: 80px;
+}
+.oldgadback {
+    position: absolute;
+    width: 400px;
+    top: 450px;
+    left: 505px;
+}
+.oldephtop {
+    position: absolute;
+    width: 400px;
+    top: 450px;
+    left: 930px;
+}
+.oldephback {
+     position: absolute;
+    width: 400px;
+    top: 880px;
+    left: 80px;
+}
+.oldlevitop {
+    position: absolute;
+    width: 400px;
+    top: 880px;
+    left: 505px;
+}
+.oldleviback {
+    position: absolute;
+    width: 400px;
+    top: 880px;
+    left: 930px;
+}
+
+.teamkitdesgins {
+     position: absolute;
+    width: 1300px;
+    top: 1280px;
+    left: 60px;
+}
+
+
+.teamkit {
+      position: relative;
+    width: 400px;
+    top: 2270px;
+    left: 50px;
+}
+
+.gadtop {
+      position: absolute;
+    width: 400px;
+    top: 2020px;
+    left: 80px;
+}
+.ephraimtop {
+      position: absolute;
+    width: 400px;
+    top: 2020px;
+    left: 502px;
+}
+.levitop {
+    position: absolute;
+    width: 400px;
+    top: 2020px;
+    left: 930px;
+}
+.gadwar {
+      position: absolute;
+    width: 200px;
+    top: 0px;
+    left: 1100px;
+}
+.ephraimwar {
+     position: absolute;
+    width: 200px;
+    top: 190px;
+    left: 1100px;
+}
+.leviwar {
+     position: absolute;
+    width: 200px;
+    top: 370px;
+    left: 1100px;
+}
 @media (max-width: 480px) {
     .mr {
     font-size: 10px;
@@ -2077,55 +2175,154 @@ right: 430px;
         }
             .power {
         position: absolute;
-        width: 430px;
-        left: 20px;
+        width: 330px;
+        top: 400px;
+        left: 50px;
     }
 .power1 {
     position: absolute;
-    width: 130px;
-    top: 800px;
+    width: 120px;
+    top: 750px;
     left: 20px;
 }
 .power2 {
     position: absolute;
-    width: 130px;
-    top: 800px;
-    left: 160px;
+    width: 120px;
+    top: 750px;
+    left: 150px;
 }
 .power3 {
     position: absolute;
-    width: 130px;
-    top: 800px;
-    left: 300px;
+    width: 120px;
+    top: 750px;
+    left: 290px;
 }
 .power4 {
     position: absolute;
-    width: 300px;
-    top: 1000px;
-    left: 10px;
+    width: 290px;
+    top: 920px;
+    left: 5px;
 }
 .power5 {
     position: absolute;
     width: 110px;
-    top: 1010px;
-    left: 320px;
+    top: 925px;
+    left: 300px;
 }
 .power6 {
     position: absolute;
     width: 400px;
-    top: 1180px;
-    left: 25px;
+    top: 1080px;
+    left: 15px;
 }
 .ph {
      position: absolute;
     width: 350px;
-    top: 600px;
-    left: 60px;
+    top: 350px;
+    left: 20px;
 }
-.ph1 {
+
+.tops {
      position: absolute;
-    top: 1400px;
-    left: 200px;
+    width: 250px;
+    top: 550px;
+    left: 20px;
+    z-index: 10;
+}
+.phteamkit {
+    position: absolute;
+    width: 380px;
+    top: 350px;
+    left: 20px;
+}
+
+.oldgadtop {
+    position: absolute;
+    width: 120px;
+    top: 850px;
+    left: 25px;
+}
+.oldgadback {
+    position: absolute;
+    width: 120px;
+    top: 850px;
+    left: 155px;
+}
+.oldephtop {
+    position: absolute;
+    width: 120px;
+    top: 850px;
+    left: 285px;
+}
+.oldephback {
+     position: absolute;
+    width: 120px;
+    top: 990px;
+    left: 25px;
+}
+.oldlevitop {
+    position: absolute;
+    width: 120px;
+    top: 990px;
+    left: 155px;
+}
+.oldleviback {
+    position: absolute;
+    width: 120px;
+    top: 990px;
+    left: 285px;
+}
+
+.teamkitdesgins {
+     position: absolute;
+    width: 400px;
+    top: 1120px;
+    left: 15px;
+}
+
+
+.teamkit {
+      position: relative;
+    width: 120px;
+    top: 1180px;
+    left: 50px;
+}
+
+.gadtop {
+      position: absolute;
+    width: 120px;
+    top: 1360px;
+    left: 25px;
+}
+.ephraimtop {
+      position: absolute;
+    width: 120px;
+    top: 1360px;
+    left: 155px;
+}
+.levitop {
+    position: absolute;
+    width: 120px;
+    top: 1360px;
+    left: 285px;
+}
+.gadwar {
+      position: absolute;
+    width: 100px;
+    top: 570px;
+    left: 250px;
+}
+.ephraimwar {
+     position: absolute;
+    width: 100px;
+    top: 645px;
+    left: 300px;
+}
+.leviwar {
+     position: absolute;
+    width: 100px;
+    top: 720px;
+    left: 250px;
 }
     
 }
