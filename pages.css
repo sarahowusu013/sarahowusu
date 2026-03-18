@@ -1,9 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap'); 
+
 body {
     padding: 20px;
     font-family: "Inter", monospace;
     background: black;
     color: white;
 }
+
+.parisienne-regular {
+    font-family: "Parisienne", cursive !important;
+}
+h1 {
+    font-size: 120px;
+    letter-spacing: 0.1em;
+    margin: 10px 0px 10px 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'Parisienne", cursive';
+   
+}
+h2 {
+    
+     font-size: 20px;
+    position: absolute;
+    top: 160px;
+    left: 50px;
+}
+h3 {
+    
+    font-size: 20px;
+    position: absolute;
+    top: 160px;
+    left: 250px;
+}
+
+
+
+
+img {width: 100%;
+height: auto;
+display: block;}
+a:hover {
+    text-decoration: none;
+}
+
+.work {
+    font-family: 'major mono display';
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    top: 20px;
+    left: 1035px;
+}
+
+
 
 .mr {
     position: absolute;
@@ -1159,6 +1209,31 @@ right: 430px;
     left: 1100px;
 }
 @media (max-width: 480px) {
+   
+    h2 {
+    font-family: "Parisienne", cursive !important;
+     font-size: 25px;
+    position: absolute;
+    top: 290px;
+    left: 200px;
+}
+h3 {
+    font-family: "Parisienne", cursive !important;
+    font-size: 30px;
+    position: absolute;
+    top: 290px;
+    left: 300px;
+}
+
+.work {
+    font-family: 'major mono display';
+    font-size: 20px;
+    text-decoration: none;
+    position: absolute;
+    top: 0px;
+    left: 210px;
+}    
+    
     .mr {
     font-size: 10px;
     position: absolute;
