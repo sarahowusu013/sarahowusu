@@ -2300,13 +2300,13 @@ h3 {
 .tops {
      position: absolute;
     width: 230px;
-    top: 550px;
+    top: 570px;
     left: 20px;
     z-index: 10;
 }
 .phteamkit {
     position: absolute;
-    width: 380px;
+    width: 390px;
     top: 350px;
     left: 20px;
 }
