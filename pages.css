@@ -2299,7 +2299,7 @@ h3 {
 
 .tops {
      position: absolute;
-    width: 250px;
+    width: 230px;
     top: 550px;
     left: 20px;
     z-index: 10;
@@ -2383,20 +2383,20 @@ h3 {
 }
 .gadwar {
       position: absolute;
-    width: 100px;
-    top: 570px;
+    width: 80px;
+    top: 600px;
     left: 250px;
 }
 .ephraimwar {
      position: absolute;
-    width: 100px;
-    top: 645px;
+    width: 80px;
+    top: 665px;
     left: 300px;
 }
 .leviwar {
      position: absolute;
-    width: 100px;
-    top: 720px;
+    width: 80px;
+    top: 730px;
     left: 250px;
 }
     
